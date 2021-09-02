@@ -1,3 +1,3 @@
 # Computer-Science
 
-#Some code I made in Computer Science I!
+#Some code I made in Computer Science I and II
